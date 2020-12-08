@@ -16,7 +16,7 @@ html {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 24px;
   font-weight: bold;
-  background: #e8e6e6;
+  background: #eee;
   padding: 10px;
   color: #7d7d7d !important;
 }
@@ -45,6 +45,12 @@ h1 {
   border-bottom: grey solid 1px;
   margin: 15px;
   color: #7d7d7d
+}
+
+h2 {
+  color: #7d7d7d;
+  padding-top: 10px;
+
 }
 
 .container {
