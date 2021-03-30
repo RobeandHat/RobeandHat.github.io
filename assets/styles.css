@@ -60,3 +60,9 @@ h2 {
   background-color: #eee;
   width: 100%;
 }
+
+.list-group {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 58px;
+}
