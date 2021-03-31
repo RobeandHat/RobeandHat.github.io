@@ -75,3 +75,12 @@ h2 {
 .list-group-item {
   margin-bottom: 5px;
 }
+
+.nav-link {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.navbar-toggler {
+  margin-right: 5px;
+}
